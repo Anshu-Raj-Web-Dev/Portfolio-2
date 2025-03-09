@@ -44,7 +44,7 @@ const AboutPage = () => {
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-              Let's make some industry ready and modern websites together
+              Let&apos;s make some industry ready and modern websites together
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="self-end">
